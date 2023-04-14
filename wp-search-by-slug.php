@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Search by slug
  * Plugin URI: nsukonny.agency/search-by-slug
- * Description: Just use slug:name_of_the_slug in your search query. For example: slug:about.
+ * Description: Just use slug:name_of_the_slug in your search query. For example: slug:about
  * Version: 1.0.0
  * Author URI:  https://nsukonny.agency
  * Author: NSukonny
