@@ -71,12 +71,11 @@ class Search_By_Slug
     /**
      * Add where clause to search by slug if needed.
      *
-     * @param $where
-     * @param $query
+     * @param string $where String of where clause.
      *
      * @return mixed|string
      */
-    public function add_where_name_like($where, $query): mixed
+    public function add_where_name_like(string $where): mixed
     {
         global $wpdb;
 
